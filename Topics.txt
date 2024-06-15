@@ -1,0 +1,5 @@
+- Single Resposibility
+- Open Close
+- Liskon Substitution
+- Interface Segregation
+- Dependancy Inversion
